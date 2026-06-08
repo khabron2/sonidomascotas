@@ -1,0 +1,6 @@
+{
+  "name": "Sonidos de Animales",
+  "description": "A bright and fun interactive application for toddlers that teaches and plays animal sounds with real photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
